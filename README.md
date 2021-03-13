@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @harigutpha
-- 👀 I’m interested in playing
+- 👋 Hi, I’m @hariguptha
+- 👀 I’m interested in coding
 
 
 <!---
